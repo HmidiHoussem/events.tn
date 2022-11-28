@@ -1,7 +1,7 @@
 {
   "name": "events.tn",
   "version": "1.0.0",
-  "description": "event collect website in Tunisia",
+  "description": "website to collect all events in Tunisia",
   "main": "index.js",
   "scripts": {
     "test": "test",
